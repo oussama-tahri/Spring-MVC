@@ -10,8 +10,8 @@ Faire des améliorations supplémentaires</h5>
 <img src="captures/Capture1.PNG" alt="">
 <img src="captures/Capture2.PNG" alt="">
 <img src="captures/Capture3.PNG" alt="">
-<img src="captures/Capture4.PNG" alt="">
 <h5>patients.HTML</h5>
+<img src="captures/Capture4.PNG" alt="">
 <img src="captures/Capture5.PNG" alt="">
 <img src="captures/Capture6.PNG" alt="">
 <h5>template.HTML</h5>
