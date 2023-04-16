@@ -1,13 +1,16 @@
 <h1>Spring MVC using Thymeleaf</h1>
-<br>
-<h5>Afficher les patients<br>
-Faire la pagination<br>
-Chercher les patients<br>
-Supprimer un patient<br>
-Faire des améliorations supplémentaires</h5>
-<br>
+<br><hr>
+<h3>To Do :</h3>
+<h5>1. Afficher les patients<br>
+2. Faire la pagination<br>
+3. Chercher les patients<br>
+4. Supprimer un patient<br>
+5. Faire des améliorations supplémentaires</h5>
+<hr><br>
 <img src="captures/Capture.PNG" alt="">
+<h5>PatientsMvcApplicatiion.java</h5>
 <img src="captures/Capture1.PNG" alt="">
+<h5>PatientsController.java</h5>
 <img src="captures/Capture2.PNG" alt="">
 <img src="captures/Capture3.PNG" alt="">
 <h5>patients.HTML</h5>
